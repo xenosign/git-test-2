@@ -4,6 +4,7 @@ import Item from './pages/Item';
 import Join from './pages/Join';
 import Login from './pages/Login';
 import Signup2 from './pages/Signup2';
+import Signup1 from './pages/Signup1'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Route path="/join" element={<Join />} />
       <Route path="/login" element={<Login />} />
       <Route path="/signup2" element={<Signup2 />} />
+      <Route path='/signup1' element={<Signup1 />} />
     </Routes>
   );
 }
