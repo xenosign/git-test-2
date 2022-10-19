@@ -6,7 +6,10 @@ import Login from './pages/Login';
 import Signup1 from './pages/Signup1';
 import Signup2 from './pages/Signup2';
 import Signup3 from './pages/Signup3';
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 
 function App() {
   return (
