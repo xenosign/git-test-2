@@ -1,8 +1,8 @@
 import { Route, Routes } from 'react-router-dom';
-import Index from './components/Index';
-import Item from './components/Item';
-import Join from './components/Join';
-import Login from './components/Login';
+import Index from './pages/Index';
+import Item from './pages/Item';
+import Join from './pages/Join';
+import Login from './pages/Login';
 
 function App() {
   return (

@@ -1,6 +1,6 @@
-import Header from './Header';
+import Header from '../components/Header';
 import styled from 'styled-components';
-import Footer from './Footer';
+import Footer from '../components/Footer';
 
 const Main = styled.main`
   text-align: center;

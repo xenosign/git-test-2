@@ -3,8 +3,8 @@ import LoadingButton from '@mui/lab/LoadingButton';
 import { Box, Container } from '@mui/system';
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Footer from './Footer';
-import Header from './Header';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 import { orange } from '@mui/material/colors';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 
